@@ -1,3 +1,5 @@
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Jwiggiff)
+
 # Hi there 👋
 My name is Josh Friedman and I am a Software Developer from Toronto! You can check out some of my current and past projects below.
 
@@ -35,6 +37,9 @@ My name is Josh Friedman and I am a Software Developer from Toronto! You can che
 [![Linkedin](https://user-images.githubusercontent.com/18373514/103466461-77873880-4d13-11eb-9821-628da08d13db.png)][1]
 &nbsp;
 [![CodePen](https://user-images.githubusercontent.com/18373514/103466872-41e44e80-4d17-11eb-9ceb-31e6ee59253b.png)][2]
+
+## &#x1F4C8; Stats 'n stuff
+[![Jwiggiff's github stats](https://github-readme-stats.vercel.app/api?username=jwiggiff&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
