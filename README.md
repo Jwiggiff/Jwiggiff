@@ -1,6 +1,4 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Jwiggiff)
-
-# Hi there 👋
+# Hi there 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Jwiggiff)
 My name is Josh Friedman and I am a Software Developer from Toronto! You can check out some of my current and past projects below.
 
 ## &#129504; What do I know?
@@ -42,7 +40,6 @@ My name is Josh Friedman and I am a Software Developer from Toronto! You can che
 [![Jwiggiff's github stats](https://github-readme-stats.vercel.app/api?username=jwiggiff&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwiggiff&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 [1]: https://www.linkedin.com/in/josh-friedman-1b9222199/
