@@ -28,7 +28,12 @@ My name is Josh Friedman and I am a Software Developer from Toronto! You can che
 - [Satisfaction Guaranteed](https://Jwiggiff.github.io/Satistfaction-Guaranteed)
 
 ## Connect with me
+&#x1F4E7; friedman.josh03@gmail.com
+
+![Discord](https://user-images.githubusercontent.com/18373514/103466964-00a06e80-4d18-11eb-943d-3e9c81b7e871.png) AtheistDonut#9208
+
 [![Linkedin](https://user-images.githubusercontent.com/18373514/103466461-77873880-4d13-11eb-9821-628da08d13db.png)][1]
+&nbsp;
 [![CodePen](https://user-images.githubusercontent.com/18373514/103466872-41e44e80-4d17-11eb-9ceb-31e6ee59253b.png)][2]
 
 
