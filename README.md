@@ -37,9 +37,9 @@ My name is Josh Friedman and I am a Software Developer from Toronto! You can che
 [![CodePen](https://user-images.githubusercontent.com/18373514/103466872-41e44e80-4d17-11eb-9ceb-31e6ee59253b.png)][2]
 
 ## &#x1F4C8; Stats 'n stuff
-[![Jwiggiff's github stats](https://github-readme-stats.vercel.app/api?username=jwiggiff&count_private=true&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Jwiggiff's github stats](https://github-readme-stats.vercel.app/api?username=jwiggiff&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwiggiff&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwiggiff&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [1]: https://www.linkedin.com/in/josh-friedman-1b9222199/
