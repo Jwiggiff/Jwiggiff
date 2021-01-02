@@ -28,9 +28,13 @@ My name is Josh Friedman and I am a Software Developer from Toronto! You can che
 - [Satisfaction Guaranteed](https://Jwiggiff.github.io/Satistfaction-Guaranteed)
 
 ## Connect with me
-[![Linkedin](https://unpkg.com/simple-icons/icons/linkedin.svg)][1]
+[![Linkedin](https://user-images.githubusercontent.com/18373514/103466461-77873880-4d13-11eb-9821-628da08d13db.png)][1]
+[![CodePen](https://user-images.githubusercontent.com/18373514/103466872-41e44e80-4d17-11eb-9ceb-31e6ee59253b.png)][2]
 
-[1]: https://google.ca
+
+
+[1]: https://www.linkedin.com/in/josh-friedman-1b9222199/
+[2]: https://codepen.io/jwiggiff
 
 <!--
 **Jwiggiff/Jwiggiff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
