@@ -28,13 +28,10 @@ My name is Josh Friedman and I am a Software Developer from Toronto! You can che
 - [Satisfaction Guaranteed](https://Jwiggiff.github.io/Satistfaction-Guaranteed)
 
 ## &#x1F4F2; Connect with me
-&#x1F4E7; friedman.josh03@gmail.com
 
-![Discord](https://user-images.githubusercontent.com/18373514/103466964-00a06e80-4d18-11eb-943d-3e9c81b7e871.png) AtheistDonut#9208
+AtheistDonut#9208 on Discord
 
-[![Linkedin](https://user-images.githubusercontent.com/18373514/103466461-77873880-4d13-11eb-9821-628da08d13db.png)][1]
-&nbsp;
-[![CodePen](https://user-images.githubusercontent.com/18373514/103466872-41e44e80-4d17-11eb-9ceb-31e6ee59253b.png)][2]
+[Linkedin][1] | [CodePen][2] | [Fiverr][3]
 
 ## &#x1F4C8; Stats 'n stuff
 [![Jwiggiff's github stats](https://github-readme-stats.vercel.app/api?username=jwiggiff&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -44,6 +41,7 @@ My name is Josh Friedman and I am a Software Developer from Toronto! You can che
 
 [1]: https://www.linkedin.com/in/josh-friedman-1b9222199/
 [2]: https://codepen.io/jwiggiff
+[3]: https://www.fiverr.com/share/NooP1p
 
 <!--
 **Jwiggiff/Jwiggiff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
