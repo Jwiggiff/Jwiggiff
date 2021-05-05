@@ -34,14 +34,14 @@ AtheistDonut#9208 on Discord
 <a href="https://www.linkedin.com/in/josh-friedman-1b9222199/">
   <img align="left" alt="Linkedin" src="/assets/linkedin.svg" />
 </a>
-
 <a href="https://codepen.io/jwiggiff">
   <img align="left" alt="CodePen" src="/assets/codepen.svg" />
 </a>
-
 <a href="https://www.fiverr.com/share/NooP1p">
   <img align="left" alt="Fiverr" src="/assets/fiverr.svg" />
 </a>
+
+<br />
 
 ## &#x1F4C8; Stats 'n stuff
 [![Jwiggiff's github stats](https://github-readme-stats.vercel.app/api?username=jwiggiff&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
