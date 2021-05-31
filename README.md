@@ -25,7 +25,7 @@ My name is Josh Friedman and I am a Software Developer from Toronto! You can che
 - [JARVIS Discord Bot](https://github.com/Jwiggiff/JARVIS)
 
 ## &#127881; Other fun projects...
-- [Satisfaction Guaranteed](https://Jwiggiff.github.io/Satistfaction-Guaranteed)
+- [Satisfaction Guaranteed](https://Jwiggiff.github.io/Satisfaction-Guaranteed)
 
 ## &#x1F4F2; Connect with me
 
