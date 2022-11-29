@@ -16,11 +16,12 @@ My name is Josh Friedman and I am a Software Developer from Toronto! You can che
 ![](https://img.shields.io/badge/Tool-Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Tool-WordPress-informational?style=flat&logo=WordPress&logoColor=white&color=yellow)
 
-## &#x1F6A7; I'm currently working on...
+<!-- ## &#x1F6A7; I'm currently working on...
 - [Rex Beats Website](rexbeats.netlify.app)
-- StudyTime App
+- StudyTime App -->
 
 ## &#128084; My proudest moments...
+- [Iris](https://github.com/Jwiggiff/QHacks22)
 - [My Personal Website](https://joshfriedman.dev)
 - [JARVIS Discord Bot](https://github.com/Jwiggiff/JARVIS)
 
