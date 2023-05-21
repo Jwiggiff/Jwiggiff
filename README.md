@@ -1,5 +1,5 @@
 # Hi there 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Jwiggiff)
-My name is Josh Friedman and I am a Software Developer from Toronto! You can check out some of my current and past projects below.
+My name is Josh Friedman and I am a Computer Engineering student from Toronto! Currently in my third year at Queen's University, I love creating innovative solutions to common problems and making fun projects on the side. You can check out some of my current and past projects below.
 
 ## &#129504; What do I know?
 ~~nothing~~
@@ -7,23 +7,22 @@ My name is Josh Friedman and I am a Software Developer from Toronto! You can che
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Language-HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Language-CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Language-React-informational?style=flat&logo=React&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Language-Flutter-informational?style=flat&logo=Flutter&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=Java&logoColor=white&color=orange)
-![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=Python&logoColor=white&color=red)
+![](https://img.shields.io/badge/Language-C-informational?style=flat&logo=C&logoColor=white&color=red)
 
-![](https://img.shields.io/badge/Tool-Jekyll-informational?style=flat&logo=Jekyll&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=GIt&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=Git&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Tool-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Tool-Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Tool-WordPress-informational?style=flat&logo=WordPress&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Tool-Linux-informational?style=flat&logo=Linux&logoColor=white&color=yellow)
 
-<!-- ## &#x1F6A7; I'm currently working on...
-- [Rex Beats Website](rexbeats.netlify.app)
-- StudyTime App -->
+## &#x1F6A7; I'm currently working on...
+- [Playlist.ai](https://github.com/ethanwhitcher/playlist.ai)
 
 ## &#128084; My proudest moments...
 - [Iris](https://github.com/Jwiggiff/QHacks22)
 - [My Personal Website](https://joshfriedman.dev)
-- [JARVIS Discord Bot](https://github.com/Jwiggiff/JARVIS)
 
 ## &#127881; Other fun projects...
 - [Satisfaction Guaranteed](https://Jwiggiff.github.io/Satisfaction-Guaranteed)
