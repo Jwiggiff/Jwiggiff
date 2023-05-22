@@ -19,6 +19,7 @@ My name is Josh Friedman and I am a Computer Engineering student from Toronto! C
 
 ## &#x1F6A7; I'm currently working on...
 - [Playlist.ai](https://github.com/ethanwhitcher/playlist.ai)
+- [Sasha Klein Design Portfolio](https://github.com/jwiggiff/sasha-klein)
 
 ## &#128084; My proudest moments...
 - [Iris](https://github.com/Jwiggiff/QHacks22)
