@@ -48,10 +48,12 @@ atheistdonut on Discord
 <br />
 
 ## &#x1F4C8; Stats 'n stuff
-[![Jwiggiff's github stats](https://github-readme-stats.vercel.app/api?username=jwiggiff&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwiggiff&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jwiggiff&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwiggiff&layout=compact&theme=dark&hide_border=true" />
+</a>
 
 [1]: https://www.linkedin.com/in/josh-friedman-1b9222199/
 [2]: https://codepen.io/jwiggiff
