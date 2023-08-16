@@ -5,12 +5,15 @@ My name is Josh Friedman and I am a Computer Engineering student from Toronto! C
 ~~nothing~~
 
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Language-HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Language-CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Language-React-informational?style=flat&logo=React&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Language-Flutter-informational?style=flat&logo=Flutter&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=Java&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Language-SQL-informational?style=flat&logo=SQL&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Language-C-informational?style=flat&logo=C&logoColor=white&color=red)
+![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=red)
 
 ![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=Git&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Tool-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=brightgreen)
@@ -18,28 +21,27 @@ My name is Josh Friedman and I am a Computer Engineering student from Toronto! C
 ![](https://img.shields.io/badge/Tool-Linux-informational?style=flat&logo=Linux&logoColor=white&color=yellow)
 
 ## &#x1F6A7; I'm currently working on...
-- [Playlist.ai](https://github.com/ethanwhitcher/playlist.ai)
 - [Sasha Klein Design Portfolio](https://github.com/jwiggiff/sasha-klein)
 
 ## &#128084; My proudest moments...
-- [Iris](https://github.com/Jwiggiff/QHacks22)
+- [Infinipedia](https://github.com/Jwiggiff/infinipedia)
+- [Playlist.AI](https://github.com/ethanwhitcher/playlist.ai)
 - [My Personal Website](https://joshfriedman.dev)
 
 ## &#127881; Other fun projects...
+- [Iris](https://github.com/Jwiggiff/QHacks22)
 - [Satisfaction Guaranteed](https://Jwiggiff.github.io/Satisfaction-Guaranteed)
+- [Flappy Bird AI](https://github.com/Jwiggiff/AI-Flappy-Bird)
 
 ## &#x1F4F2; Connect with me
 
-AtheistDonut#9208 on Discord
+atheistdonut on Discord
 
 <a href="https://www.linkedin.com/in/josh-friedman-1b9222199/">
   <img align="left" alt="Linkedin" src="/assets/linkedin.svg" />
 </a>
 <a href="https://codepen.io/jwiggiff">
   <img align="left" alt="CodePen" src="/assets/codepen.svg" />
-</a>
-<a href="https://www.fiverr.com/share/NooP1p">
-  <img align="left" alt="Fiverr" src="/assets/fiverr.svg" />
 </a>
 
 <br />
@@ -52,7 +54,6 @@ AtheistDonut#9208 on Discord
 
 [1]: https://www.linkedin.com/in/josh-friedman-1b9222199/
 [2]: https://codepen.io/jwiggiff
-[3]: https://www.fiverr.com/share/NooP1p
 
 <!--
 **Jwiggiff/Jwiggiff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
