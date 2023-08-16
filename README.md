@@ -1,4 +1,5 @@
-# Hi there 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Jwiggiff)
+# Hi there 👋 [![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](https://badges.pufler.dev)
+
 My name is Josh Friedman and I am a Computer Engineering student from Toronto! Currently in my third year at Queen's University, I love creating innovative solutions to common problems and making fun projects on the side. You can check out some of my current and past projects below.
 
 ## &#129504; What do I know?
