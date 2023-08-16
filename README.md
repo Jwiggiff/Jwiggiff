@@ -52,7 +52,7 @@ atheistdonut on Discord
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jwiggiff&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwiggiff&layout=compact&theme=dark&hide_border=true&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwiggiff&layout=compact&theme=dark&hide_border=true&card_width=320&langs_count=8" />
 </a>
 
 [1]: https://www.linkedin.com/in/josh-friedman-1b9222199/
