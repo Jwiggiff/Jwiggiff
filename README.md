@@ -1,6 +1,6 @@
 # Hey there, I'm Josh! 👋 [![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](https://badges.pufler.dev)
 
-My name is Josh Friedman and I am a Computer Engineering & Innovation student from Toronto! Currently in my third year at Queen's University, I love creating innovative solutions to common problems and making fun projects on the side. You can check out some of my current and past projects below.
+My name is Josh Friedman and I am a Computer Engineering & Innovation student from Toronto! I work with several startups and love making my own projects on the side.
 
 ## &#x1F6E0; What I work with
 
